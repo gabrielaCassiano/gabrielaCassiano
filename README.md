@@ -41,5 +41,5 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0-gabrielaCassiano&theme=onedark&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=gabrielaCassiano&theme=onedark&column=-1)
 
