@@ -12,7 +12,9 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/gabrielaCassiano/gabrielaCassiano/output/github-contribution-grid-snake-dark.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabrielaCassiano/gabrielaCassiano/output/snake.svg" alt="Snake animation" />
 
 ## 🚀 Technologies & Tools
 
@@ -35,11 +37,20 @@
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaCassiano&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=gabrielaCassiano&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaCassiano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaCassiano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gabrielaCassiano&theme=onedark&column=-1)
+
+<details>
+  <summary><b>💻 &nbsp;API</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/0-don/igdb-graphql">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaCassiano&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+</details>
 
