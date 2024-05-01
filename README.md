@@ -46,13 +46,3 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gabrielaCassiano&theme=onedark&column=-1)
 
-<details>
-  <summary><b>💻 &nbsp;API</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/igdb-graphql">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaCassiano&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
