@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-gabrielaCassiano/0-gabrielaCassiano/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/gabrielaCassiano/gabrielaCassiano/output/github-contribution-grid-snake-dark.svg)
 
 ## 🚀 Technologies & Tools
 
